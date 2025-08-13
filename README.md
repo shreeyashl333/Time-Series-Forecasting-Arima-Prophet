@@ -75,8 +75,12 @@ The dataset used is the **International Airline Passengers dataset** (`internati
 
 ---
 
-📌 Results & Insights
+## 📌 Results & Insights
+
 ✅ Identified strong seasonal patterns in airline passenger data
+
 ✅ Achieved low RMSE with tuned SARIMA & Prophet models
+
 ✅ Demonstrated the importance of stationarity in time series modeling
+
 ✅ Showcased a reproducible forecasting pipeline
