@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Time Series](https://img.shields.io/badge/Domain-Time%20Series%20Forecasting-red)
 
 ---
