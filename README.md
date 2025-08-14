@@ -68,10 +68,22 @@ The dataset used is the **International Airline Passengers dataset** (`internati
 
 ---
 
-## 📷 Sample Visualizations
-| Trend & Seasonality | ACF & PACF | Forecast Plot |
-|---------------------|-----------|--------------|
-| ![Trend](https://via.placeholder.com/250x150.png?text=Trend+Plot) | ![ACF](https://via.placeholder.com/250x150.png?text=ACF+PACF) | ![Forecast](https://via.placeholder.com/250x150.png?text=Forecast) |
+## 📷 Key Visuals
+
+**1) Raw Series (Trend + Seasonality)**  
+<img src="images/01_timeseries.png" alt="Raw time series" width="780"/>
+
+**2) Seasonal Decomposition (Multiplicative)**  
+<img src="images/02_decompose.png" alt="Seasonal decomposition" width="780"/>
+
+**3) ACF & PACF**  
+<img src="images/03_acf_pacf.png" alt="ACF/PACF" width="780"/>
+
+**4) Forecast vs Actuals (Confidence Intervals)**  
+<img src="images/04_forecast.png" alt="Forecast" width="780"/>
+
+**5) Prophet Components (Trend & Yearly Seasonality)**  
+<img src="images/05_prophet_components.png" alt="Prophet components" width="780"/>
 
 ---
 
